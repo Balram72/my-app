@@ -7,6 +7,7 @@ function App() {
     
 
       <div className="ticks"> demo test</div>
+            <div className="ticks"> demo test</div>
 
       
     </>
